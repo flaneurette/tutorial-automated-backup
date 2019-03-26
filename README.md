@@ -1,3 +1,5 @@
+## Create automatic backups to a USB stick on (Ubuntu) Linux server
+
 First, find all mount points to see whether your USB stick has already been mounted.
 ```
 df -h
